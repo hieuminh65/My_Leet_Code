@@ -3,7 +3,6 @@ def isValid(s):
         stack = []
 
         for c in s:
-            print(c)
             if c not in Map:
                 stack.append(c)
                 continue
