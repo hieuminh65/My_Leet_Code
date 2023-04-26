@@ -1,13 +1,17 @@
-def maxProfit(prices):
-    maxP = 0
-    l = 0
-    r = 1
-    while r < len(prices):
-        if prices[r] > prices[l]:
-            maxP = max(prices[r] - prices[l], maxP)
-        else:
-            l = r
-        r += 1
+a = 0
+e = 17057
+c = 103984
+# for i in range(16):
+#     print(e**2%c)
+#     e = e**2%c
+# l = [29937,33985,27777,24673,26833,89857,29937,18977,93201,25793,98001,17057]
+# l1 = [29937,33985,27777,34593]
+# res = 1
+# for n in l1:
+#     res = (res * n)%c
 
-    return maxP
-print(maxProfit([7,1,5,3,6,4]))
+# print(res)
+x = 12
+print((x**-48319)%104641)
+x=12
+print((12**17057)%104641)
