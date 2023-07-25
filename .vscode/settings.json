@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "stack": "cpp",
+        "iosfwd": "cpp"
+    }
+}
