@@ -1,3 +1,1 @@
-# My_Leet_Code
-## My Leetcode's Answers
-## Hieu Nguyen
+# [My Leet Code Profile](https://leetcode.com/hieuminhnguyen/) 📚
